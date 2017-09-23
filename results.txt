@@ -1,3 +1,4 @@
+		(Ascending)	(Random)	(Descending)
 		Best Cases	Average Cases	Worst Cases
 BubbleSort	3.9612e-05	0.00491332	0.00540064
 RippleSort	0.00162504	0.0025674	0.0116582
