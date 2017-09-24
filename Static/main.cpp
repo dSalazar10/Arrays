@@ -11,7 +11,7 @@
 #include "Timer.h"
 
 int main(int argc, const char * argv[]) {
-    
+    Timer t;
     ostream &out = cout;
     out << "\t\t\t\tBest Cases" << "\tAverage Cases" << "\tWorst Cases";
     
@@ -137,7 +137,6 @@ int main(int argc, const char * argv[]) {
     n.quickSort();
     out << "\t\t" << ct.endTime() << endl;
     
-    //Timer t;
-    //cout << "It took me " << t.endTime() << " seconds." << endl;
+    cout << "It took me " << t.endTime() << " seconds." << endl;
     return 0;
 }
