@@ -1,5 +1,5 @@
 # Arrays
-Implementation of c++ STL <array> and <chrono>
+Implementation of c++ STL array and chrono
 
 Sort Algorithms:
 - bubbleSort
