@@ -9,10 +9,6 @@
 
 #include "Array.h"
 #include "Timer.h"
-#include <iostream>
-#include <chrono>
-#include <unistd.h>
-
 
 int main(int argc, const char * argv[]) {
     
