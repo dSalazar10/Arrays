@@ -7,3 +7,7 @@ ShellSort   	0.00884486	0.00865754  	0.0286826
 SelectionSort	0.00160088	0.00164272  	0.0339421
 MergeSort	0.00510349	0.00528714  	0.0503883
 QuickSort	0.00196313	0.00157939  	0.0559797
+
+
+This is the time in milliseconds to complete the various sort functions.
+Best case arrays are in ascending order, the average case arrays are in random order, and worst case arrays are in descending order.
